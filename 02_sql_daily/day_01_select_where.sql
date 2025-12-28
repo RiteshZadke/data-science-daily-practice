@@ -60,6 +60,22 @@
 -- 	(48, 'Sunil Desai', 'Finance', 76000, 45),
 -- 	(49, 'Reema Pillai', 'Data Science', 73000, 38),
 -- 	(50, 'Ajay Saxena', 'Engineering', 85000, 46);
+
+
+
+
+-- Day 01 – SQL SELECT & WHERE Practice
+-- 
+-- This file contains basic SQL queries focused on:
+-- - Selecting data using SELECT
+-- - Filtering rows using WHERE
+-- - Using conditions such as BETWEEN, LIKE, and DISTINCT
+-- - Writing clean and readable SQL queries
+--
+-- Table used: employees
+
+
+
     
     
 -- Q1.  query to select all columns from the employees table.
